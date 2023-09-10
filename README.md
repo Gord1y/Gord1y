@@ -1,14 +1,15 @@
 <p align="center">
-  <a href="https://jrgarciadev.com" target="_blank">
+  <!-- <a href="https://jrgarciadev.com" target="_blank">
     <img width="40em" height="40em" src="https://portfoliov2-ruby.vercel.app/logo.svg">
-  </a>
+  </a> -->
+  Gord1y
 </p
 
 <h2> Welcome 👋 , I'm Dania Hordiienko.</h2>
 
 I'm a FullStack developer based in Zhytomyr, Ukraine, specializing in building exceptional websites and mobile applications, and everything in between.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;My Tech Stack</h3>
 
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
