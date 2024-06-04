@@ -5,7 +5,7 @@
   Gord1y
 </p
 
-<h2> Welcome 👋 , I'm Dania Hordiienko.</h2>
+<h2> Welcome 👋 , I'm Danylo Hordiienko.</h2>
 
 I'm a FullStack developer based in Zhytomyr, Ukraine, specializing in building exceptional websites and mobile applications, and everything in between.
 
@@ -15,6 +15,7 @@ I'm a FullStack developer based in Zhytomyr, Ukraine, specializing in building e
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+  ![Nest.js](https://img.shields.io/badge/-Nest.js-0A1A2F?style=flat&logo=nest.js)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
