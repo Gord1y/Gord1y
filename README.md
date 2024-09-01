@@ -7,7 +7,7 @@
 
 <h2> Welcome 👋 , I'm Danylo Hordiienko.</h2>
 
-I'm a FullStack developer based in Zhytomyr, Ukraine, specializing in building exceptional websites and mobile applications, and everything in between.
+I'm a FullStack developer based in Ukraine, specializing in building exceptional websites and mobile applications, and everything in between.
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
